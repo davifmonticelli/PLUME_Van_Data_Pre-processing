@@ -1,6 +1,6 @@
 # Pre-processing P.L.U.M.E. Van Data
 
-This script was created to automatically pre-process P.L.U.M.E. Van data after multiple days of sampling
+This script was created to automatically pre-process P.L.U.M.E. Van data after multiple days of sampling.
 
 **Author:** Davi de Ferreyro Monticelli, iREACH group (University of British Columbia)
 
